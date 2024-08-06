@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is a completed version of the Task Manager Tutorial
 
-Things you may want to cover:
+## Setup
 
-* Ruby version
+```ruby
+bundle install
+rails db:{drop,create,migrate,seed}
+rails s
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Once you run `rails s` you should be able to make requests in Postman to properly CRUD task resources!
