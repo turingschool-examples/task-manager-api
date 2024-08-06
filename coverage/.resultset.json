@@ -1,0 +1,29 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/julieteyraud/Turing/mod2/lessons/task-manager-api-complete/app/models/task.rb": {
+        "lines": [
+          1,
+          1,
+          7,
+          3,
+          4,
+          3,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/julieteyraud/Turing/mod2/lessons/task-manager-api-complete/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1722975841
+  }
+}
