@@ -9,7 +9,6 @@ class Api::V1::TasksController < ApplicationController
   end
 
   def create
-    binding.pry
     render json: Task.create(task_params)
   end
 
